@@ -16,7 +16,7 @@ a:focus {
     outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color !important;
     outline-offset: -2px;
-    border-radius: 50rem;
+    border-radius: 50rem !important;
     /* outline: 1px dashed #4c4c4c !important; */
 }
 
