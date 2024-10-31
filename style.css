@@ -904,6 +904,9 @@ h4 {
 }
 
 @media (max-width: 767px) {
+    .bg-banniere {
+        background-image: url("img/agence-la-panthere-mobile.webp");
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
